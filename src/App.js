@@ -1,8 +1,9 @@
 import React from 'react';
+import Form from './components/Form';
 
 function App() {
   return (
-    <h1>Matheus</h1>
+    <Form></Form>
   );
 }
 
