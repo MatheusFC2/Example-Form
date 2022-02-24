@@ -10,7 +10,7 @@ function App() {
 
     <Main>
       <Form>
-        <Field.Text label="email" type="email" name="email" /> 
+        <Field.Text label="Email" type="email" name="email" /> 
       </Form>
     </Main>
  
