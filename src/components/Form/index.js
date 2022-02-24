@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
-const Form = styled.Form``;
+const Form = styled.form`
+
+`;
 
 export default Form
